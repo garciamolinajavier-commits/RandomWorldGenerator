@@ -18,6 +18,7 @@ public class RandomWorldGenerator {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("Este es el nuevo mensaje");
+        //sout == System.out
     }
     
 }
