@@ -1,7 +1,7 @@
 # Archivos temporales
 *.log
 *.tmp
-*.txt
+
 
 # Archivos de compilación
 *.class
@@ -11,3 +11,10 @@
 /.idea/
 /nbproject/
 *.iml
+# Archivos de copia de seguridad
+*~
+*.bak
+
+# Archivos ocultos de macOS o Linux
+.DS_Store
+Thumbs.db
