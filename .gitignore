@@ -1,0 +1,13 @@
+# Archivos temporales
+*.log
+*.tmp
+*.txt
+
+# Archivos de compilación
+*.class
+*.exe
+
+# Configuración del IDE
+/.idea/
+/nbproject/
+*.iml
