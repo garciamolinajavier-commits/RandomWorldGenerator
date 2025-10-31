@@ -18,5 +18,7 @@
 # Archivos ocultos de macOS o Linux
 .DS_Store
 Thumbs.db
+
+
 /privado/
 !/privado/leeme.txt
